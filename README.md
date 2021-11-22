@@ -1,4 +1,4 @@
-# Meta Analysis of Varenicline on Alcohol Dependence
+# Meta Analysis of Varenicline as Cure For Alcohol Dependence
 
 ## Abstract
 * **Objective:** To assess the overall effectiveness of varenicline for the treatment of alcohol use disorder in adults according to three dependent variables: percent heavy drinking days, alcohol craving, and adverse events compared to a controlled study group.
